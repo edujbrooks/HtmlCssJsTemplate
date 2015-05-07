@@ -1,0 +1,10 @@
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\bin\Debug\HtmlCssJsTemplate.exe.config
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\bin\Debug\HtmlCssJsTemplate.exe
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\bin\Debug\HtmlCssJsTemplate.pdb
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\obj\Debug\HtmlCssJsTemplate.csprojResolveAssemblyReference.cache
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\obj\Debug\HtmlCssJsTemplate.Properties.Resources.resources
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\obj\Debug\HtmlCssJsTemplate.csproj.GenerateResource.Cache
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\obj\Debug\HtmlCssJsTemplate.exe
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\obj\Debug\HtmlCssJsTemplate.pdb
+c:\users\hartelo\documents\visual studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\obj\Debug\HtmlCssJsTemplate.frmMain.resources
+C:\Users\HARTELO\Documents\Visual Studio 2013\Projects\HtmlCssJsTemplate\HtmlCssJsTemplate\obj\Debug\HtmlCssJsTemplate.exe.licenses
